@@ -1,0 +1,30 @@
+charset,Shift_JIS
+name,人生は一度きり（仮）
+type,ghost
+craftman,AG36
+craftmanw,AG36
+craftmanurl,https://twitter.com/AG3601
+readme,readme.txt
+sakura.name,元幼馴染
+kero.name,ユーザ
+sakura.seriko.defaultsurface,5
+kero.seriko.defaultsurface,10
+balloon.defaultsurface,0
+seriko.alignmenttodesktop,bottom
+sakura.seriko.alignmenttodesktop,bottom
+kero.seriko.alignmenttodesktop,bottom
+sstp.allowunspecifiedsend,1
+sstp.allowcommunicate,1
+sstp.alwaystranslate,0
+name.allowoverrid,1
+shiori.cache,1
+shiori.encoding,0
+don't need onmousemove,0
+don't need bind,0
+don't need seriko talk,0
+balloon.dontmove,False
+shiori,satori.dll
+
+
+
+

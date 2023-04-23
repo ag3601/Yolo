@@ -1,0 +1,5 @@
+charset,Shift_JIS
+name,l¶‚Íˆê“x‚«‚è
+type,ghost
+directory,Yolo
+refresh,0
