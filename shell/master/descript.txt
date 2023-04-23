@@ -15,7 +15,7 @@ readme,readme.txt
 
 //腕
 
-sakura.bindgroup3600.default,1
+sakura.bindgroup3551.default,1
 sakura.bindoption0.group,腕,mustselect
 sakura.bindgroup3600.name,腕,デフォルト
 sakura.bindgroup3550.name,腕,下ろし両手
@@ -219,7 +219,7 @@ sakura.bindgroup1099.name,後髪アクセサリー,うさリボン左赤
 
 //下着上
 
-sakura.bindgroup4215.default,1
+sakura.bindgroup4213.default,1
 sakura.bindgroup4200.name,下着上,ブラ黒
 sakura.bindgroup4201.name,下着上,ブラ白
 sakura.bindgroup4202.name,下着上,ブラ赤
@@ -290,7 +290,7 @@ sakura.bindgroup8173.name,ワンピース,ナース服ピンク
 
 //トップ　
 
-sakura.bindgroup7525.default,1
+sakura.bindgroup7625.default,1
 sakura.bindgroup7508.name,トップ,ﾌﾘﾙｼｬﾂ黒
 sakura.bindgroup7520.name,トップ,ﾌﾘﾙｼｬﾂピンク
 sakura.bindgroup7513.name,トップ,ﾌﾘﾙｼｬﾂ白
