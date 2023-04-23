@@ -434,7 +434,6 @@ sakura.bindgroup8050.name,ズボン,スラックス白
 
 //靴下
 
-sakura.bindgroup4731.default,1
 sakura.bindgroup4708.name,靴下,ニーソ黒
 sakura.bindgroup4707.name,靴下,ニーソ白
 sakura.bindgroup4709.name,靴下,ニーソピンク
@@ -476,6 +475,7 @@ sakura.bindgroup4736.name,靴下,足袋白
 
 //タイツ
 
+sakura.bindgroup5108.default,1
 sakura.bindgroup5100.name,タイツ,タイツ１黒
 sakura.bindgroup5101.name,タイツ,タイツ１白
 sakura.bindgroup5102.name,タイツ,タイツ１赤

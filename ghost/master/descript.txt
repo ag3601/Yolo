@@ -5,7 +5,7 @@ craftman,AG36
 craftmanw,AG36
 craftmanurl,https://twitter.com/AG3601
 readme,readme.txt
-sakura.name,Œ³—c“éõ
+sakura.name,—c“éõ
 kero.name,ƒ†[ƒU
 sakura.seriko.defaultsurface,5
 kero.seriko.defaultsurface,10
