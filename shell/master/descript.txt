@@ -127,7 +127,7 @@ sakura.bindgroup12209.name,横髪,横髪内巻３
 
 //モミアゲ
 
-sakura.bindgroup11311.default,1
+sakura.bindgroup11300.default,1
 sakura.bindoption.group,モミアゲ,multiple
 sakura.bindgroup11300.name,モミアゲ,モミアゲ左右
 sakura.bindgroup11311.name,モミアゲ,モミアゲハネ２,
