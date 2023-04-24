@@ -17,6 +17,7 @@ readme,readme.txt
 
 sakura.bindgroup3551.default,1
 sakura.bindoption0.group,˜r,mustselect
+sakura.bindoption.group,˜r,multiple
 sakura.bindgroup3600.name,˜r,ƒfƒtƒHƒ‹ƒg
 sakura.bindgroup3550.name,˜r,‰º‚ë‚µ—¼è
 sakura.bindgroup3551.name,˜r,˜r‘O
@@ -41,6 +42,10 @@ sakura.bindgroup3558.name,˜r,‹¹èA‰E
 sakura.bindgroup3558.addid,9557,3406
 sakura.bindgroup3559.name,˜r,‹¹èA¶
 sakura.bindgroup3559.addid,9558,3407
+sakura.bindgroup3560.name,˜r,‰º‚ë‚µ‰E
+sakura.bindgroup3560.addid,3410
+sakura.bindgroup3561.name,˜r,‰º‚ë‚µ¶
+sakura.bindgroup3561.addid,3411
 
 
 //‹r
@@ -70,22 +75,19 @@ sakura.bindoption0.group,“’‹C,mustselect
 sakura.bindgroup20000.default,1
 sakura.bindgroup20000.name,“’‹C,“’‹C
 
+
 //‘O”¯
 
 sakura.bindoption0.group,‘O”¯,mustselect
 sakura.bindgroup14098.default,1
 
-sakura.bindgroup14010.name,‘O”¯,ƒiƒ`ƒ…ƒ‰ƒ‹‚X
-”sakura.bindgroup210.name,‘O”¯,ƒiƒ`ƒ…ƒ‰ƒ‹‚X
-sakura.bindgroup14010.addid,210
-
-sakura.bindgroup14011.name,‘O”¯,ƒiƒ`ƒ…ƒ‰ƒ‹‚X“§‚¯
-”sakura.bindgroup211.name,‘O”¯,ƒiƒ`ƒ…ƒ‰ƒ‹‚X“§‚¯
-sakura.bindgroup14010.addid,211
-
+sakura.bindgroup14097.name,‘O”¯,’·‚P
+”sakura.bindgroup297.name,‘O”¯,’·‚P
+sakura.bindgroup14097.addid,297
 sakura.bindgroup14098.name,‘O”¯,’·‚Q
 ”sakura.bindgroup298.name,‘O”¯,’·‚Q
 sakura.bindgroup14098.addid,298
+
 
 //Œã”¯
 
@@ -93,10 +95,10 @@ sakura.bindoption0.group,Œã”¯,mustselect
 sakura.bindgroup1100.default,1
 sakura.bindgroup1100.name,Œã”¯,ƒƒ“ƒO‚P
 sakura.bindgroup1101.name,Œã”¯,ƒƒ“ƒO‚Q
-sakura.bindgroup1199.name,Œã”¯,‚­‚¹–Ñ‚P{
-sakura.bindgroup1200.name,Œã”¯,‚­‚¹–Ñ‚Q{
-sakura.bindgroup1201.name,Œã”¯,‚­‚¹–Ñ‚R{
-sakura.bindgroup1202.name,Œã”¯,‚­‚¹–Ñ‚S{
+sakura.bindgroup1108.name,Œã”¯,ƒ|ƒj[ƒe[ƒ‹‚Q
+”sakura.bindgroup1300.name,Œã”¯,ƒ|ƒj[ƒe[ƒ‹‚Q
+sakura.bindgroup1108.addid,1300
+sakura.bindgroup1111.name,Œã”¯,ƒ|ƒj[ƒe[ƒ‹‚T
 
 
 //‰¡”¯
@@ -122,7 +124,9 @@ sakura.bindgroup12209.name,‰¡”¯,‰¡”¯“àŠª‚R
 
 //Œã”¯ƒp[ƒc iŒã”¯‚æ‚èŒã‚ë‚Ìƒ‚ƒm‘S”ÊA‚X‚O‚O”Ô‚ğØ‚è‚Ü‚·Bj
 
-
+sakura.bindgroup928.name,Œã”¯ƒp[ƒc,‹İ‘«’Z‚P
+sakura.bindgroup929.name,Œã”¯ƒp[ƒc,‹İ‘«’Z‚Q
+sakura.bindgroup930.name,Œã”¯ƒp[ƒc,‹İ‘«ƒZƒ~ƒƒ“ƒO
 
 
 //ƒ‚ƒ~ƒAƒQ

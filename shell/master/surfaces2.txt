@@ -83,11 +83,21 @@ animation9557.pattern0,bind,517,0,0,0
 animation9557.collisionex9557,Hand,polygon,236,318,252,319,270,303,270,316,290,313,275,325,296,328,282,333,290,346,266,342,247,335
 animation3558.interval,bind
 animation3558.pattern0,bind,518,0,0,0
+animation3559.interval,bind
+animation3559.pattern0,bind,519,0,0,0
 animation9558.interval,bind
 animation9558.pattern0,bind,520,0,0,0
 animation9558.collisionex9558,Hand,polygon,294,337,312,317,294,319,271,303,273,315,252,310,269,321,245,330,265,331,255,346,276,341
-animation3559.interval,bind
-animation3559.pattern0,bind,519,0,0,0
+animation3560.interval,bind
+animation3560.pattern0,bind,521,0,0,0
+animation3560.collision3560,126,503,193,539,Hand
+animation3561.interval,bind
+animation3561.pattern0,bind,522,0,0,0
+animation3561.collision3561,350,496,422,543,Hand
+animation3410.interval,bind
+animation3410.pattern0,bind,514,0,0,0
+animation3411.interval,bind
+animation3411.pattern0,bind,513,0,0,0
 
 
 //ãr
@@ -111,19 +121,15 @@ animation560.collision8,208,547,266,836,Leg
 
 //ëOîØ
 
-animation14010.interval,bind
-animation14010.pattern0,bind,14010,0,0,0
-animation14011.interval,bind
-animation14011.pattern0,bind,14011,0,0,0
+animation14097.interval,bind
+animation14097.pattern0,bind,14097,0,0,0
 animation14098.interval,bind
 animation14098.pattern0,bind,14098,0,0,0
 
 //ëOîØâeÅ@î˚ñ—ÇÊÇËâ∫
 
-animation210.interval,bind
-animation210.pattern0,bind,710,0,0,0
-animation211.interval,bind
-animation211.pattern0,bind,711,0,0,0
+animation297.interval,bind
+animation297.pattern0,bind,797,0,0,0
 animation298.interval,bind
 animation298.pattern0,bind,798,0,0,0
 
@@ -138,22 +144,19 @@ animation1101.interval,bind
 animation1101.option,background
 animation1101.pattern0,bind,1501,0,0,0
 animation1101.collisionex1101,Hair,polygon,178,486,153,442,171,373,205,297,211,181,221,161,254,135,292,137,318,149,334,187,341,294,375,375,394,447,366,485,338,412,338,364,349,355,334,308,292,292,289,281,319,255,329,245,329,184,317,152,293,140,254,138,222,160,210,181,217,251,253,279,250,292,213,303,192,356,208,365,208,412
-animation1199.interval,bind
-animation1199.option,background
-animation1199.pattern0,bind,1599,0,0,0
-animation1199.collisionex1144,Hair,polygon,289,279,289,293,338,305,350,281,349,261,337,245,337,183,321,156,305,143,276,132,243,137,214,160,199,212,201,233,189,272,201,308,253,295,256,283,241,274,223,250,216,249,213,221,215,180,220,160,242,137,276,132,303,143,321,154,331,171,327,218,329,247
-animation1200.interval,bind
-animation1200.option,background
-animation1200.pattern0,bind,1600,0,0,0
-animation1200.collisionex1145,Hair,polygon,289,279,289,293,338,305,350,281,349,261,337,245,337,183,321,156,305,143,276,132,243,137,214,160,199,212,201,233,189,272,201,308,253,295,256,283,241,274,223,250,216,249,213,221,215,180,220,160,242,137,276,132,303,143,321,154,331,171,327,218,329,247
-animation1201.interval,bind
-animation1201.option,background
-animation1201.pattern0,bind,1601,0,0,0
-animation1201.collisionex1146,Hair,polygon,289,279,289,293,338,305,350,281,349,261,337,245,337,183,321,156,305,143,276,132,243,137,214,160,199,212,201,233,189,272,201,308,253,295,256,283,241,274,223,250,216,249,213,221,215,180,220,160,242,137,276,132,303,143,321,154,331,171,327,218,329,247
-animation1202.interval,bind
-animation1202.option,background
-animation1202.pattern0,bind,1602,0,0,0
-animation1202.collisionex1198,Hair,polygon,273,134,309,143,339,187,339,250,304,288,246,289,217,279,198,233,209,168,234,140
+
+animation1108.interval,bind
+animation1108.option,background
+animation1108.pattern0,bind,1508,0,0,0
+animation1108.collisionex1108,Hair,polygon,288,139,289,129,273,121,239,123,222,135,213,171,168,316,170,330,229,363,219,309,228,250,215,250,222,190,218,173,227,143,288,140
+animation1111.interval,bind
+animation1111.option,background
+animation1111.pattern0,bind,1511,0,0,0
+animation1111.collisionex1111,Hair,ellipse,250,122,288,137
+
+animation1300.interval,bind
+animation1300.option,background
+animation1300.pattern0,bind,1300,0,0,0
 
 
 //â°îØ
@@ -299,6 +302,13 @@ animation1098.pattern0,bind,998,0,0,0
 animation1099.interval,bind
 animation1099.option,background
 animation1099.pattern0,bind,999,0,0,0
+
+animation928.interval,bind
+animation928.pattern0,bind,1228,0,0,0
+animation929.interval,bind
+animation929.pattern0,bind,1229,0,0,0
+animation930.interval,bind
+animation930.pattern0,bind,1230,0,0,0
 
 
 //ÉÇÉ~ÉAÉQ
