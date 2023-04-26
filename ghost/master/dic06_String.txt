@@ -12,19 +12,22 @@
 
 
 ＠callghostrootbutton.caption
-誰を呼び出すの？
+誰を呼び出す
+
 ＠closebutton.caption
-席を離れる
+少し休む
+
 ＠configurationrootbutton.caption
-いろいろ設定できるわ
-＠elpbutton.caption
-便利な機能があるらしいわ
+設定
+
 ＠ghostrootbutton.caption
-出かけるの？
+出かける
+
 ＠helpbutton.caption
-ベースウェアの説明書よ
+ベースウェアの説明書
+
 ＠homeurl
-https://raw.githubusercontent.com/ag3601/Papaver/master/
+https://raw.githubusercontent.com/ag3601/Yolo/master/
 
 ＃ネットワーク更新時にアクセスするアドレス。
 ＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
@@ -32,21 +35,22 @@ https://raw.githubusercontent.com/ag3601/Papaver/master/
 
 ＠inforootbutton.caption
 書類の山
+
 ＠kero.recommendbuttoncaption
 ￥１のおすすめ(&R)
 
 ＠pluginrootbutton.caption
-プラグインよ
+プラグイン
+
 ＠portalrootbutton.caption
 伺か関係のリンク
-＃（U）だけの、おすすめφ…。(&P)
 
 ＠rateofuseballoonbutton.caption
 バルーンの変更はここよ
+
 ＠readmebutton.caption
-注意書きよ
-＠recommendrootbutton.caption
-原作へ
+注意書き
+
 ＊sakura.portalsites
 伺かのあそびかたφ（FIRST　GUIDEφ）　
 http://haka.sakura.ne.jp/guide/　
@@ -59,6 +63,7 @@ http://ssp.shillest.net/ukadoc/manual/index.html
 里々Wiki
 http://soliton.sub.jp/satori/index.php?FrontPage
 \h里々に関するＴｉｐがまとまっているような気がします。
+
 ＊sakura.portalsites
 ゴーストキャプターさくら（GCさくら）
 http://buynowforsale.shillest.net/ghosts/
@@ -89,36 +94,30 @@ https://ghostreview.sakura.ne.jp/
 ゴースト回覧板３ｒｄ
 http://jbbs.shitaraba.net/computer/44300/
 
-＊sakura.recommendsites
-薬の魔物の解雇理由
-https://ncode.syosetu.com/n2357dn/
-＊sakura.recommendsites
-薬の魔物の継続理由
-https://ncode.syosetu.com/n1031fh/
-
-＃＊sakura.portalsites
-＃-
-＃「-」といれることでリンクメニューに罫線を引くことができます。　
-
-
 ＠saveasdefaultbutton.caption
 今の設定を全部のゴーストさんに反映させられますφ…。
+
 ＠dressuprootbutton.caption
-気になる服をリクエストしていいわよ
-＠shellscalerootbutton.caption
-もっとくつけて
-＠shellscalerootbutton.caption
-もっと私に近寄って
+着せ替え
+
 ＠updatebutton.caption
 更新
+
 ＠username
 （ユーザ名）　
 
 ＠vanishbutton.caption
 消滅(&F)
 アンインストール(&F)
+
 ＠vanishbutton.visible
 （消滅ボタン）
 
 ＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
 
+
+＠closebutton.caption
+ちょっと頭が痛い
+
+＠closebutton.caption
+少しめまいがする
