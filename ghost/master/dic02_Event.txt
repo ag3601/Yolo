@@ -12,21 +12,6 @@
 ＊cが押された
 ＞コミュ
 
-＊OnBatteryCritical
-：（４０）ばってりーが残り（Ｒ０）％。
-
-（０）少し休んだ方が良いわ。
-
-
-
-
-
-＊OnBatteryLow
-：（４０）ばってりーが残り（Ｒ０）％。
-
-（０）ｗ５大丈夫？
-
-
 ＊OnBoot
 ＞（現在月）月（現在日）日
 ＄終了から経過日数=（time_check、how_many_days、（終了年）、（終了月）、（終了日））*-1
@@ -38,7 +23,7 @@
 
 ＊OnChoiceSelect
 ＞（Ｒ０）
-（選択肢のジャンプ先「（Ｒ０）」は存在しません。記述ミス？）
+（選択肢のジャンプ先「（Ｒ０）」は存在しません。バグ報告をお願いします。）
 
 ＊OnChoiceTimeout
 ：？
@@ -77,18 +62,17 @@
 ＞他のゴーストへ変更早い	（単純起動分）＜＝２
 
 ＊OnInstallBegin
-：インストール開始。
+\p[2]インストール開始。
 
 ＊OnInstallComplete
 ＞（Ｒ１）をインストール
-（Ｒ１）/（Ｒ０）をインストールしました。
+\p[2]（Ｒ１）/（Ｒ０）をインストールしました。
 
 ＊OnInstallFailure
-インストール失敗。
+\p[2]インストール失敗。
 
 ＊OnInstallRefuse
-：
-これは『（call（バイト値、１）KillDangerousTag（バイト値、１）（Ｒ０））』さん専用だそうです。
+\p[2]これは『（call（バイト値、１）KillDangerousTag（バイト値、１）（Ｒ０））』さん専用だそうです。
 
 ＊OnKeyPress
 ＞（Ｒ０）が押された
@@ -98,13 +82,13 @@
 
 
 ＊OnNarCreated
-：（５）梱包はこれていいのかしら？
+\p[2]narの作成を完了しました。
 
 ＊OnNarCreating
-：（５）あら、小包を出すのね？
+\p[2]narを作成しています。
 
 ＊OnNetworkHeavy
-：（４０）普段より遅いわね…
+\p[2]回線が重いです。
 
 ＊OnShellChanged
 ：（７１）うん。
@@ -121,50 +105,47 @@
 （r_talk）
 
 ＊OnUpdate.OnDownloadBegin
-：（Ｒ０）（５）ふむふむ。
+\p[2]アップデート開始。
 
 ＃ \_qはメッセージを一瞬で表示する「さくらスクリプト」。
 
 ＊OnUpdate.OnMD5CompareBegin
-：\_q（Ｒ０）手紙の写しもあるわね。\_q
+\p[2]チェックサムの計算を開始。
 
 ＊OnUpdate.OnMD5CompareComplete
-：（５）元\_q　（Ｒ１）\_q
+\p[2]リモート\_q　（Ｒ１）\_q
 
-写し\_q　（Ｒ２）\_q
+ローカル\_q　（Ｒ２）\_q
 
-大丈夫ね。
+チェックサムは一致。
 
 ＊OnUpdate.OnMD5CompareFailure
-：（５）元\_q　（Ｒ１）\_q
+\p[2]リモート\_q　（Ｒ１）\_q
 
-写し\_q　（Ｒ２）\_q
+ローカル\_q　（Ｒ２）\_q
 
-（０）一致しないわね、何かあったのかしら？
-
+チェックサムエラー
 
 ＊OnUpdateBegin
-：（５）あら、ｗ５郵便なの？ｗ９ｗ５
+\p[2]更新作業を開始。
 
-何かしら？
+
 
 ＊OnUpdateComplete
 ＞ネットワーク更新（Ｒ０）
-手紙ね。ｗ９ｗ５
-
-（Ｒ０）との報告があったわ。
+\p[2]更新完了しました。
 
 ＊OnUpdatedataCreated
-：（５）完了したわ。
+\p[2]完了。
 
 ＊OnUpdatedataCreating
-：（５）updates2.dau作成ね。
+\p[2]updates2.dauを作成中。
 
 ＊OnUpdateFailure
 ＞ネットワーク更新（Ｒ０）
-（０）配達に問題が有るわね。ｗ９ｗ５
+\p[2]更新に失敗。\w9
 
-（４０）理由は（Ｒ０）だそうよ。
+理由は（Ｒ０）。
 
 ＊OnUpdateReady
 ：
