@@ -109,8 +109,8 @@
 ＊OnShellChanged
 ：（７１）うん。
 
-＊OnShellChanging
-：（５）ん？
+＊さとりすとにより無効化_OnShellChanging
+：（５）…ん？ｗ９ｗ９
 
 
 

@@ -53,6 +53,7 @@ sakura.bindgroup3561.addid,3411
 sakura.bindoption0.group,脚,mustselect
 sakura.bindgroup560.default,1
 sakura.bindgroup560.name,脚,通常脚
+sakura.bindgroup561.name,脚,着物用脚
 
 
 //耳
@@ -271,6 +272,30 @@ sakura.bindgroup8102.name,ワンピース,軍服黒腕胸
 sakura.bindgroup8103.name,ワンピース,軍服白腕後
 sakura.bindgroup8104.name,ワンピース,軍服白腕前
 sakura.bindgroup8105.name,ワンピース,軍服白腕胸
+sakura.bindgroup8107.name,ワンピース,着物黄帯黒橡
+sakura.bindgroup8106.name,ワンピース,着物黄帯紅梅色
+sakura.bindgroup8108.name,ワンピース,着物黄帯竜胆色
+sakura.bindgroup8118.name,ワンピース,着物黄帯花緑青
+sakura.bindgroup8138.name,ワンピース,着物黄帯紅掛花色
+sakura.bindgroup8139.name,ワンピース,着物黄帯木蘭色
+sakura.bindgroup8140.name,ワンピース,着物黄帯濃深縹
+sakura.bindgroup8141.name,ワンピース,着物黄帯濃鶸茶
+sakura.bindgroup8120.name,ワンピース,着物黄帯濃海老茶
+sakura.bindgroup8121.name,ワンピース,着物黄帯濃紺桔梗
+sakura.bindgroup8119.name,ワンピース,着物黄帯濃胆礬色
+sakura.bindgroup8111.name,ワンピース,着物桃帯黒橡
+sakura.bindgroup8110.name,ワンピース,着物桃帯紅梅色
+sakura.bindgroup8112.name,ワンピース,着物桃帯竜胆色
+sakura.bindgroup8115.name,ワンピース,着物桃帯花緑青
+sakura.bindgroup8142.name,ワンピース,着物桃帯紅掛花色
+sakura.bindgroup8143.name,ワンピース,着物桃帯木蘭色
+sakura.bindgroup8144.name,ワンピース,着物桃帯濃深縹
+sakura.bindgroup8145.name,ワンピース,着物桃帯濃鶸茶
+sakura.bindgroup8113.name,ワンピース,着物桃帯濃海老茶
+sakura.bindgroup8114.name,ワンピース,着物桃帯濃紺桔梗
+sakura.bindgroup8116.name,ワンピース,着物桃帯濃胆礬色
+sakura.bindgroup8109.name,ワンピース,着物紅の八塩
+sakura.bindgroup8117.name,ワンピース,着物月白
 sakura.bindgroup8147.name,ワンピース,ワンピースA黒
 sakura.bindgroup8148.name,ワンピース,ワンピースA白
 sakura.bindgroup8149.name,ワンピース,ワンピースA赤
