@@ -1,12 +1,12 @@
 charset,Shift_JIS
-name,人生は一度きり（仮）
+name,人生は一度きり
 type,ghost
 craftman,AG36
 craftmanw,AG36
 craftmanurl,https://twitter.com/AG3601
 readme,readme.txt
 sakura.name,幼馴染
-kero.name,ユーザくん
+kero.name,あなた
 sakura.seriko.defaultsurface,5
 kero.seriko.defaultsurface,10
 balloon.defaultsurface,0
