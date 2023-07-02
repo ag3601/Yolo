@@ -45,9 +45,6 @@ https://raw.githubusercontent.com/ag3601/Yolo/master/
 ＠portalrootbutton.caption
 伺か関係のリンク
 
-＠rateofuseballoonbutton.caption
-バルーンの変更はここよ
-
 ＠readmebutton.caption
 注意書き
 
@@ -94,9 +91,6 @@ https://ghostreview.sakura.ne.jp/
 ゴースト回覧板３ｒｄ
 http://jbbs.shitaraba.net/computer/44300/
 
-＠saveasdefaultbutton.caption
-今の設定を全部のゴーストさんに反映させられますφ…。
-
 ＠dressuprootbutton.caption
 着せ替え
 
@@ -105,10 +99,6 @@ http://jbbs.shitaraba.net/computer/44300/
 
 ＠username
 （ユーザ名）　
-
-＠vanishbutton.caption
-消滅(&F)
-アンインストール(&F)
 
 ＠vanishbutton.visible
 （消滅ボタン）
@@ -121,3 +111,6 @@ http://jbbs.shitaraba.net/computer/44300/
 
 ＠closebutton.caption
 少しめまいがする
+
+＠updatebutton.caption
+よくなりたい
